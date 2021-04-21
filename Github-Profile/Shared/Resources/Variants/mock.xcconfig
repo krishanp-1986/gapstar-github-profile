@@ -1,0 +1,11 @@
+//
+//  mock.xcconfig
+//  Github-Profile
+//
+//  Created by Krishantha on 05/04/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+MOCK = true

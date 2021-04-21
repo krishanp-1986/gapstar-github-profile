@@ -1,0 +1,152 @@
+{
+  "data": {
+    "user": {
+      "email": "fabien@symfony.com",
+      "login": "fabpot",
+      "name": "Fabien Potencier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47313?u=7ba05204271a726f8642ac15864e2f361b5c0198&v=4",
+      "followers": {
+        "totalCount": 11335
+      },
+      "following": {
+        "totalCount": 0
+      },
+      "topRepositories": {
+        "nodes": [
+          {
+            "name": "symfony",
+            "description": "The Symfony PHP framework",
+            "stargazers": {
+              "totalCount": 25028
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "Twig",
+            "description": "Twig, the flexible, fast, and secure template language for PHP",
+            "stargazers": {
+              "totalCount": 7137
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "book-5.2-1",
+            "description": "The Symfony 5 book source: The Fast Track",
+            "stargazers": {
+              "totalCount": 8
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "book-5.0-6",
+            "description": "The Symfony 5 book source: The Fast Track",
+            "stargazers": {
+              "totalCount": 27
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "book-5.0-5",
+            "description": "The Symfony 5 book source: The Fast Track",
+            "stargazers": {
+              "totalCount": 24
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "cli",
+            "description": "Repository for reporting issues related to the Symfony CLI",
+            "stargazers": {
+              "totalCount": 107
+            },
+            "primaryLanguage": null
+          },
+          {
+            "name": "http-kernel",
+            "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+            "stargazers": {
+              "totalCount": 7309
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "framework-bundle",
+            "description": "The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.",
+            "stargazers": {
+              "totalCount": 2840
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "book-5.0-4",
+            "description": "The Symfony 5 book source: The Fast Track",
+            "stargazers": {
+              "totalCount": 39
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "book-5.0-3",
+            "description": "The Symfony 5 book source: The Fast Track",
+            "stargazers": {
+              "totalCount": 41
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          }
+        ]
+      },
+      "pinnedItems": {
+        "nodes": [
+          {
+            "name": "symfony",
+            "description": "The Symfony PHP framework",
+            "stargazers": {
+              "totalCount": 25028
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "Twig",
+            "description": "Twig, the flexible, fast, and secure template language for PHP",
+            "stargazers": {
+              "totalCount": 7137
+            },
+            "primaryLanguage": {
+              "name": "PHP"
+            }
+          },
+          {
+            "name": "lite",
+            "description": "Split a repository to read-only standalone repositories",
+            "stargazers": {
+              "totalCount": 1238
+            },
+            "primaryLanguage": {
+              "name": "Go"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
